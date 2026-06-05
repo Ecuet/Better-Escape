@@ -8,7 +8,7 @@
 	},
 	"id": "ecuet.better-escape",
 	"name": "Better Escape",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "Ecuet",
 	"description": "No more accidental closing levels",
 	"dependencies": {

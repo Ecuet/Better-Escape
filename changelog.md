@@ -1,2 +1,5 @@
 # 1.0.0
-- Edit this file to change your mod's changelog.
+- Initial Release
+
+# 1.0.1 
+- Added Changelog
