@@ -10,7 +10,7 @@
 	"name": "Better Escape",
 	"version": "v1.0.0",
 	"developer": "Ecuet",
-	"description": "",
+	"description": "No more accidental closing levels",
 	"dependencies": {
 		"geode.node-ids": ">=v1.23.3"
 	}
