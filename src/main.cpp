@@ -23,7 +23,7 @@ class $modify(MyPlayLayer, PlayLayer) {
 class $modify(MyPauseLayer, PauseLayer){
     void tryQuit(CCObject* sender) {
        bool shift = CCKeyboardDispatcher::get()->getShiftKeyPressed();
-       if(shift) {
+       if(shift || sender) {
             PauseLayer::tryQuit(sender);
        }
        else PauseLayer::onResume(nullptr);
